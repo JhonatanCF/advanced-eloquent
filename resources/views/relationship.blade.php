@@ -4,7 +4,7 @@
         <title>Relaciones</title>
     </head>
     <body>
-        <table border="0" cellpadding="10" border-co>
+        <table border="0" cellpadding="10">
         <tr>
             <th>Categoria</th>
             <th>Total</th>
